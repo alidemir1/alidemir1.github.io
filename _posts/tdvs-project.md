@@ -15,8 +15,7 @@ My duty in the project was to improve algorithm, so that it is not effected by l
 ###How System Works
 The video is showing very shortly that the algorithm is working correctly and gives feedback about which tucker welding does not exist;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZLrhh7FkDo" frameborder="0"> </iframe>
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/nZLrhh7FkDo" frameborder="0"> </iframe>
 
 ###Comparison of Two Algorithms
 Here is the comparison of results of the two algorithms in the following picture (Left one is old and Right one is developed).
@@ -31,11 +30,11 @@ algorithm in varying areas in the factory.
 
 Video of the comparison of algorithms in the video the first 30 seconds belongs to the old algorithm, and rest of the video shows the developed algorithm.;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T4SRq-gHZdc" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/T4SRq-gHZdc" frameborder="0"> </iframe>
 
 and lastly mechanical design for production line (it might be seen insufficient but I have done this for only illustration purposes.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CBQVwKhIuFA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/CBQVwKhIuFA" frameborder="0"> </iframe>
 
 
 
