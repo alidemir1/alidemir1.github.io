@@ -20,9 +20,7 @@ The video is showing very shortly that the algorithm is working correctly and gi
 #Comparison of Two Algorithms
 Here is the comparison of results of the two algorithms in the following picture (Left one is old and Right one is developed).
 
-<figure>
-	<a href="https://github.com/alidemir1/alidemir1.github.io/blob/master/assets/img/newandOldAlgo.png"> <img src="https://github.com/alidemir1/alidemir1.github.io/blob/master/assets/img/newandOldAlgo.png"></a>
-</figure>
+
 
 In the picture, it is seen that we have detected not only tucker weldings but even the spot weldings which enabled us to use this
 algorithm in varying areas in the factory.
