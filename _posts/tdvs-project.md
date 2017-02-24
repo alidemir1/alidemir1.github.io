@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tucker Detection Vision System"
-date: 2012-05-22
+date: 2017-02-25
 excerpt: "TDVS Project"
 tags: [project, computer vision]
 comments: false
@@ -9,7 +9,7 @@ project: true
 ---
 
 Tucker Detection Vision System (TDVS) is a software wihch allows its user to control existence of tuckers via computer vision.
-My duty in the project was to improve algorithm, so that it is not effected by light variance. 
+My duty in the project was to improve algorithm, so that it is not effected by light variance. I have done this project while I was a project intern in 2014. 
 
 #How System Works
 The video is showing very shortly that the algorithm is working correctly and gives feedback about which tucker welding does not exist;
