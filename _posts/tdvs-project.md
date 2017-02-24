@@ -6,6 +6,7 @@ excerpt: "TDVS Project"
 tags: [project, computer vision]
 comments: false
 project: true
+published: true
 ---
 
 Tucker Detection Vision System (TDVS) is a software wihch allows its user to control existence of tuckers via computer vision.
