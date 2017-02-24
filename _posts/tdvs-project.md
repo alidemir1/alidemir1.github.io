@@ -4,7 +4,7 @@ title: "Tucker Detection Vision System"
 date: 2017-02-25
 excerpt: "TDVS Project"
 tags: [project, computer vision]
-comments: false
+comments: true
 project: true
 ---
 
