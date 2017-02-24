@@ -3,12 +3,12 @@ layout: post
 title:  "AutoRecon"
 date:   2017-25-02
 excerpt: "AutoRecon"
-project: true
 tag:
 - Automotive
 - Robotics
 - EU
 comments: false
+project: true
 ---
 
 In this project my role was to program robots. I was a project intern in the FCA (Fiat-Chrysler Automotive) in summer of 2014.
@@ -17,4 +17,3 @@ AutoRecon (AUTOnomous co-operative machines for highly RECONfigurable assembly o
 The automotive industry demonstrator which I am involved is in the following video;
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/cVwoOAO6z3U" frameborder="0"> </iframe>
-
