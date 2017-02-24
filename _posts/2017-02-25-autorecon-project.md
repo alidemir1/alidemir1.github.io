@@ -16,5 +16,5 @@ AutoRecon (AUTOnomous co-operative machines for highly RECONfigurable assembly o
 
 The automotive industry demonstrator which I am involved is in the following video;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cVwoOAO6z3U" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/cVwoOAO6z3U" frameborder="0"> </iframe>
 
