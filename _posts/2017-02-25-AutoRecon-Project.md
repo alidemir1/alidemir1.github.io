@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AutoRecon"
+title:  "AutoRecon: AUTOnomous co-operative machines for highly RECONfigurable assembly operations of the future"
 date:   2017-25-02
 excerpt: "Scraping my school's terrible classes page."
 project: true
