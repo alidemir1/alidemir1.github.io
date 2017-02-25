@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ship Main Engine Training Simulator"
-date:   2017-02-26
+date:   2017-02-25
 excerpt: "This project has been done for training of maritime school students, since not every school has its own ship."
 tag:
 - Simulator
