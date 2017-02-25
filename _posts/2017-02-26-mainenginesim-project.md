@@ -19,5 +19,6 @@ You can see the video of the simulator below (not all of it, since it is still u
 this project from 11/2014 to 09/2016). This project has been supported 
 by BAP (Scientific Research Projects) Office of ITU (Istanbul Technical University). 
 There are different systems under the same simulator but I thought that Main Engine is the one which is worth most to show.
+By the way, this is the first Ship Main Engine and Subsystems Simulator developed in Turkey.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/N4YeIbMxYx4" frameborder="0"> </iframe>
