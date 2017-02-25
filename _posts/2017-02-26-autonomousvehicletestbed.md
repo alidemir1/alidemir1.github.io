@@ -21,6 +21,8 @@ a low cost infrared distance measurement sensor is used together with a servo mo
 As a case study, an autonomous navigation algorithm (Follow the Gap) has been applied for the developed system and
 successful autonomous driving performance is observed during experimental tests.
 
+I will make this project open source in soon.
+
 You can find the related paper  <a href="https://www.researchgate.net/publication/309188042_Design_and_Experimental_Validation_of_a_Low_Cost_Autonomous_Vehicle_Testbed" rel="nofollow">here</a>.
 And the related video;
 
