@@ -2,7 +2,7 @@
 layout: post
 title:  "Design and Experimental Validation of a Low Cost Autonomous Vehicle Testbed"
 date:   2017-02-26
-excerpt: "This project has been done under the course of Mechatronics System Design and a paper is published."
+excerpt: "This project has been done under the course of Mechatronics System Design and a paper was published."
 tag:
 - Computer Vision
 - Test Platform
