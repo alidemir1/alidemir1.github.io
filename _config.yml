@@ -1,7 +1,7 @@
 # Site
 title:              Ali Demir
-bio:                'A Mechatronics Engineer with Uncontrollable Curiosity'
-description:        "A Mechatronics Engineer with Uncontrollable Curiosity" #"Moon is a minimal, one column jekyll theme for your blog."
+bio:                'A Mechatronics Engineer with Uncontrollable <a href="https://www.youtube.com/watch?v=__tPaFaPCHo" rel="nofollow">Curiosity</a>'
+description:        "A Mechatronics Engineer with Uncontrollable <a href="https://www.youtube.com/watch?v=__tPaFaPCHo" rel="nofollow">Curiosity</a>" #"Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/profile.jpg' #/logo.png'
