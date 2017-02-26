@@ -32,7 +32,7 @@ By the way imagine this matrix that reward[x,y]; where x is the robot's current 
 so if there is passage from x to y then it is 0 (while y is not the study room otherwise it is 100), if there is no then it is -1. Now,
 our reward matrix is ready, and we need to initialize some learning matrix. We are initializing learning (Q) matrix as matrix of zeros with same 
 dimension with reward matrix. Lastly, we need to formulize learning; 
-{% highlight ruby %}
+{% raw %}
 while(i < iterate){ //repeats learning for true result 
   while(current room != study room){ //Try different actions and learns untill go to the study room
         action = random_possible_actions
@@ -41,18 +41,18 @@ while(i < iterate){ //repeats learning for true result
 }
 i++;
 }
-{% endhighlight %}
+{% endraw %}
 Where alpha is learning rate (0.8). By the way, don't calculate actions rewarded with "-1" since robots can not get through walls :). You should iterate this line of code 
 as much as you believe is enough for robot to learn. While iterating you should assign your  actions randomly, so your robot be able to try different roads.
 
 You got your robot learn the road, but how you can test it. Testing code as follows
-{% highlight ruby %}
+{% raw%}
 current room = choose some room other than study room
 while(current room != study room){
      current room= index(max[Q[current room, all actions]]) //choosing the next room with highest learned reward
      print current room   
  }
-{% endhighlight %}
+{% endraw %}
 If you room numbers are sequence that creates the shortest way. Then you accomplished to teach your robot the shortest way from kitchen
 to your study room. 
 Video is also available if you want check; 
