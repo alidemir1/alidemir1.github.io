@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Q-Learning Algorithm and Basic Application on Arduino"
+title:  "Q-Learning Algorithm and Basic Implementation on Arduino"
 date:   2017-02-26
 excerpt: "Q-Learning algorithm is unsupervised learning algorithm in order to make a system learning by itself."
 tag:
