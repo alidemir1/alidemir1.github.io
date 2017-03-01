@@ -7,7 +7,7 @@ tag:
 - Automotive
 - Robotics
 - EU
-comments: false
+comments: true
 project: true
 ---
 
