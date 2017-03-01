@@ -8,7 +8,7 @@ tag:
 - Machine Learning
 - Unsupervised Learning
 - Reinforcement Learning
-comments: false
+comments: true
 ---
 ### Machine Learning
 Actually before starting to explain Q-Learning Algorithm. I would like to write things down about Machine Learning (ML) which we started to
