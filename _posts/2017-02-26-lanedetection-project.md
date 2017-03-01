@@ -7,7 +7,7 @@ tag:
 - Computer Vision
 - Lane Detection
 - Autonomous Control
-comments: false
+comments: true
 project: true
 ---
 Aim of the project is to detect lanes with high accuracy and warn to driver in unintentional lane departures 
