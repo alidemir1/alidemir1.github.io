@@ -7,7 +7,7 @@ tag:
 - Computer Vision
 - Test Platform
 - Autonomous Control
-comments: false
+comments: true
 project: true
 ---
 
