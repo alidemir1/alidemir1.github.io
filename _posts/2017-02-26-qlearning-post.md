@@ -51,13 +51,3 @@ to your study room.
 Video is also available if you want to check; 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/uvj-GhsljyA" frameborder="0"> </iframe>
-
-
-### References
-###### [1]  S. Shalev-Shwartz, S. Shammah,Amnon Shashua, "Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving", October 2016.
-
-###### [2] Google's Deep Dream Algorithm at "https://github.com/google/deepdream", accessed on 26th February 2017/
-
-###### [3] Dean Pomerleau , "ALVINN: An Autonomous Land Vehicle In a Neural Network," Advances in Neural Information Processing Systems 1, 1989.
-
-###### [4] Jia Deng, Wei Dong, R. Socher, Li-Jia Li, Kai Li and Li Fei-Fei, "ImageNet: A large-scale hierarchical image database", 2009 IEEE Conference on Computer Vision and Pattern Recognition, 2009.
