@@ -4,7 +4,7 @@ title:  "A Brief Info About Machine Learning and What It teaches Us Rather Than 
 date:   2017-03-02
 excerpt: "I would like to write things down about Machine Learning (ML) which we started to hear more frequently from day to day. 
 Applications of ML varying from Autonomous cars [1], [3] to visualizing/immitating what people see under 
-effect of the hallucinatives [2] so, from **engineers** to **physcologists**, it is used in many different areas."
+effect of the hallucinatives [2] so, from engineers to physcologists, it is used in many different areas."
 tag:
 - Machine Learning
 - Human Learning
